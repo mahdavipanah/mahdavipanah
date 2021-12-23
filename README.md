@@ -4,15 +4,15 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mahdavipanah](github.com/mahdavipanah)
 
-- 📝 I regularly write articles on [virgool.io/@mahdavipanah](virgool.io/@mahdavipanah)
+- 📝 I regularly write articles on [virgool.io/@mahdavipanah](virgool.io/@mahdavipanah) and [yavarjs.ir](https://yavarjs.ir/)
 
 - 💬 Ask me about **JavaScript, Node.js, Databases**
 
-- 📫 How to reach me **h.mahdavipanah@gmail.com**
+- 📫 Reach me at **h.mahdavipanah@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdavipanah/](https://www.linkedin.com/in/mahdavipanah/)
 
-- ⚡ I love **books, pool, snooker, and music**
+- ⚡ I love *Bbooks, Pool, Snooker, and Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mahdavipanah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahdavipanah" /></a></p><br><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahdavipanah&show_icons=true&locale=en" alt="mahdavipanah" /></p>
