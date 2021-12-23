@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hamidreza</h1>
 
+<div align="center">
+  
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=green&style=for-the-badge)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=for-the-badge)
+![Software System Analysis](https://img.shields.io/static/v1?label=&message=Software+System+Analysis&color=orange&style=for-the-badge)
+![API Development](https://img.shields.io/static/v1?label=&message=API+Development&color=blue&style=for-the-badge)
+![Database Design](https://img.shields.io/static/v1?label=&message=Database+Design&color=brown&style=for-the-badge)
+  
+</div>
+
 - 🔭 Bachelor's degree in **Software Engineering**
 - 🌱 I’m currently learning **Data Science**
 - ⚙️ Mastering: `.js`, `.ts`, `.py`, `.sql`
