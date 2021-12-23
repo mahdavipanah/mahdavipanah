@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamidreza</h1>
 
-![Metrics](https://github.com/mahdavipanah/mahdavipanah/blob/main/github-metrics.svg)
+<!-- If you're using the "columns" display mode -->
+<img src="https://github.com/mahdavipanah/mahdavipanah/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 
 - 🌱 I’m currently learning **Data Science**
 
