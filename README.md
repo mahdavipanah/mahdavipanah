@@ -5,8 +5,8 @@
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=green&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=for-the-badge)
 ![Software System Design](https://img.shields.io/static/v1?label=&message=Software+System+Design&color=orange&style=for-the-badge)
-![API Development](https://img.shields.io/static/v1?label=&message=API+Development&color=blue&style=for-the-badge)
-![Database Development](https://img.shields.io/static/v1?label=&message=Database+Development&color=brown&style=for-the-badge)
+![Backend and API](https://img.shields.io/static/v1?label=&message=Backend+and+API&color=blue&style=for-the-badge)
+![Database](https://img.shields.io/static/v1?label=&message=Database+Development&color=brown&style=for-the-badge)
   
 </div>
 
