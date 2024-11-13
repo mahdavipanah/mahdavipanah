@@ -10,7 +10,7 @@
   
 </div>
 
-- 🔭 Bachelor's degree in **Software Engineering**
+- 💻 **Software Engineer**
 - 🌱 I’m currently learning **Data Science**
 - ⚙️ Mastering: `.js`, `.ts`, `.py`, `.sql`
 - 📝 I regularly write articles on [virgool.io/@mahdavipanah](https://virgool.io/@mahdavipanah) and [yavarjs.ir](https://yavarjs.ir/)
