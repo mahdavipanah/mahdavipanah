@@ -17,7 +17,7 @@
 </div>
 
 - 💻 Software and Database Engineer
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Ruby** and **Data Science**
 - ⚙️ Mastering: `.js`, `.ts`, `.py`, `.sql`
 - 📝 I regularly write articles on [virgool.io/@mahdavipanah](https://virgool.io/@mahdavipanah) and [yavarjs.ir](https://yavarjs.ir/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdavipanah/](https://www.linkedin.com/in/mahdavipanah/)
