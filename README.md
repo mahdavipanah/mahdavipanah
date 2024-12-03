@@ -2,6 +2,12 @@
 
 <div align="center">
   
+  Read my posts at [hamidreza.tech](https://hamidreza.tech)
+  
+</div>
+
+<div align="center">
+  
 ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=green&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=for-the-badge)
 ![Software System Design](https://img.shields.io/static/v1?label=&message=Software+System+Design&color=orange&style=for-the-badge)
@@ -16,6 +22,7 @@
 - 📝 I regularly write articles on [virgool.io/@mahdavipanah](https://virgool.io/@mahdavipanah) and [yavarjs.ir](https://yavarjs.ir/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdavipanah/](https://www.linkedin.com/in/mahdavipanah/)
 - ⚡ I love **Books, Pool, Snooker, and Music**
+- </> I write artciles about JavaScript in __Persian__ at [yavarjs.ir](https://yavarjs.ir)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdavipanah&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) -->
 
