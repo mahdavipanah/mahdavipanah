@@ -19,10 +19,9 @@
 - 💻 Software and Database Engineer
 - 🌱 I’m currently learning **Ruby** and **Data Science**
 - ⚙️ Mastering: `.js`, `.ts`, `.py`, `.sql`
-- 📝 I regularly write articles on [virgool.io/@mahdavipanah](https://virgool.io/@mahdavipanah) and [yavarjs.ir](https://yavarjs.ir/)
+- 📝 I write articles about JS at [yavarjs.ir](https://yavarjs.ir/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdavipanah/](https://www.linkedin.com/in/mahdavipanah/)
 - ⚡ I love **Books, Pool, Snooker, and Music**
-- </> I write artciles about JavaScript in __Persian__ at [yavarjs.ir](https://yavarjs.ir)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdavipanah&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) -->
 
