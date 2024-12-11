@@ -19,7 +19,7 @@
 - 💻 Software and Database Engineer
 - 🌱 I’m currently learning **Ruby** and **Data Science**
 - ⚙️ Mastering: `.js`, `.ts`, `.py`, `.sql`
-- 📝 I write articles about JS at [yavarjs.ir](https://yavarjs.ir/)
+- 📝 I write Persian articles about JS at [yavarjs.ir](https://yavarjs.ir/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdavipanah/](https://www.linkedin.com/in/mahdavipanah/)
 - ⚡ I love **Books, Pool, Snooker, and Music**
 
