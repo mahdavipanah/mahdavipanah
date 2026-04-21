@@ -24,8 +24,3 @@
 - ⚡ When I'm not developing software, I'm **reading books**, **cyling**, and **playing the piano**
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdavipanah&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<h4 align="left">Connect with me:</h4>
-
-- <a href="https://linkedin.com/in/mahdavipanah" target="blank">LinkedIn</a>
-- <a href="https://instagram.com/mahdavipanah" target="blank">Instagram</a>
