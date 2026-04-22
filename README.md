@@ -21,6 +21,6 @@
 - ⚙️ Mastering: `.js`, `.ts`, `.py`, `.sql`
 - 📝 I write Persian articles about JavaScript at [yavarjs.ir](https://yavarjs.ir/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdavipanah/](https://www.linkedin.com/in/mahdavipanah/)
-- ⚡ When I'm not developing software, I'm **reading books**, **cyling**, and **playing the piano**
+- ⚡ When I'm not developing software, I'm **reading books**, **cycle**, or **play the piano**
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdavipanah&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) -->
