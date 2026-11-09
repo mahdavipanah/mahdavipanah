@@ -17,8 +17,6 @@
 </div>
 
 - 💻 Software and Database Engineer
-- 🌱 I’m currently learning **Rust** and **Data Science**
-- ⚙️ Mastering: `.js`, `.ts`, `.py`, `.sql`
 - 📝 I write Persian articles about JavaScript at [yavarjs.ir](https://yavarjs.ir/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdavipanah/](https://www.linkedin.com/in/mahdavipanah/)
 - ⚡ When I'm not developing software, I'm **reading books**, **cycling**, or **playing the piano**
