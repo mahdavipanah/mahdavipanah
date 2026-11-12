@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=blue&style=for-the-badge)
 ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=purple&style=for-the-badge)
 ![Software Architecture](https://img.shields.io/static/v1?label=&message=Software+Architecture&color=orange&style=for-the-badge)
-![Backend and API](https://img.shields.io/static/v1?label=&message=Backend+and+API&color=gray&style=for-the-badge)
+![Backend and API](https://img.shields.io/static/v1?label=&message=Backend+and+API&color=yellow&style=for-the-badge)
   
 </div>
 
